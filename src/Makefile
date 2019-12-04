@@ -35,7 +35,7 @@
 #CPLUSPLUS = CC +d
 #CPLUSPLUS = DCC +d
 #CPLUSPLUS = OCC +d
-CPLUSPLUS = g++
+CPLUSPLUS = clang++
 
 # choice of the options
 CFLAGS = -O3 -Wno-write-strings -Wno-deprecated # options for g++
