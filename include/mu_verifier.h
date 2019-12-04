@@ -79,7 +79,7 @@ using namespace std;
  ****************************************/
 
 extern "C" int remove(const char *filename);
-extern "C" long sysconf(int name);
+extern "C" long int sysconf(int name) __THROW;
 
 
 /****************************************

@@ -39,7 +39,7 @@ CPLUSPLUS = g++
 
 # choice of the options
 CFLAGS = -O3 -Wno-write-strings -Wno-deprecated # options for g++
-LDFLAGS = -ll
+LDFLAGS = -lfl
 #CFLAGS = -O4 -pipe -static #
 #CFLAGS = -static #
 #CFLAGS = -w #                              # options for OCC
