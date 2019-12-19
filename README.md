@@ -22,7 +22,7 @@ https://drive.google.com/drive/folders/1yV2xasGxTqVl1FNcqQ8xN8Z3VVOpF_vi
 My early CUDA memory consistency model from my [undergrad thesis](https://www.cs.princeton.edu/~ts20/files/bsthesis.pdf):
 https://www.cs.princeton.edu/~ts20/files/cuda_mmodel.txt
 
-
+## Contact
 
 Tyler Sorensen
 tyler.sorensen@outlook.com
