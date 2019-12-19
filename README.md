@@ -12,5 +12,17 @@ Collaboration is always welcome.
 
 Original Readme can be found in Legacy/
 
+## Examples
+
+I have collected a few links to more use-cases. If you have any you'd like added here please let me know!
+
+Various examples from Professor Ganesh Gopalakrishnan group at University of Utah:
+https://drive.google.com/drive/folders/1yV2xasGxTqVl1FNcqQ8xN8Z3VVOpF_vi
+
+My early CUDA memory consistency model from my [undergrad thesis](https://www.cs.princeton.edu/~ts20/files/bsthesis.pdf):
+https://www.cs.princeton.edu/~ts20/files/cuda_mmodel.txt
+
+
+
 Tyler Sorensen
 tyler.sorensen@outlook.com
