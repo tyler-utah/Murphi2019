@@ -16,8 +16,8 @@ Original Readme can be found in Legacy/
 
 I would like to collect links to more use-cases. If you have any you'd like added here please let me know!
 
-My early CUDA memory consistency model from my [undergrad thesis](https://www.cs.princeton.edu/~ts20/files/bsthesis.pdf):
-https://www.cs.princeton.edu/~ts20/files/cuda_mmodel.txt
+My early CUDA memory consistency model from my [undergrad thesis](https://users.soe.ucsc.edu/~tsorensen/files/bsthesis.pdf):
+https://users.soe.ucsc.edu/~tsorensen/files/cuda_mmodel.txt
 
 ## Contact
 
