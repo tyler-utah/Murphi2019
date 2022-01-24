@@ -533,7 +533,7 @@ extern program *theprog;
 #define IDLEN 256           /* longest length of an identifier. */
 extern int gLineNum;        /* current line number in file. */
 extern FILE *yyin;          /* the file from which yylex() reads. */
-int yylex( void );          /* the lexer, provided by 'flex mu.l' */
+extern int yylex( void );          /* the lexer, provided by 'flex mu.l' */
 void yyerror(char *s);      /* stuff for yacc. yacc's yyerror. */
 extern int offset;          /* offset for variables in current scope. */
 extern int yyparse( void ); /* shouldn't this get declared in y.tab.h? */
